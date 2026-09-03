@@ -9,5 +9,6 @@ GitHub Pages 支援 Range 請求（實測 206 Partial Content + `Accept-Ranges: 
 | 集 | 檔 | 大小 |
 |---|---|---|
 | 01 THE WAREHOUSE | `the-warehouse/CutB_720p_web.mp4` | 35.3 MiB · 76s · 720p · `-g 4` |
+| 02 THE CONTAINER SHIP | `the-container-ship/CutB_720p_web.mp4` | 28.3 MiB · 76.04s · 720p · `-g 4` |
 
 影片畫面由 AI 生成，僅供示意。
